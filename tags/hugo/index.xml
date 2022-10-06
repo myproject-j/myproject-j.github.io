@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on Project J - Blog</title><link>https://myproject-j.github.io/tags/hugo/</link><description>Recent content in hugo on Project J - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myproject-j.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>本小站的Big Bang</title><link>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</link><pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</guid><description>&lt;img src="https://myproject-j.github.io/hugo.jpg" alt="Featured image of post 本小站的Big Bang" />&lt;h3 id="为啥选择hugo">为啥选择Hugo&lt;/h3>
+&lt;p>可能是懒得研究太多，随便看了看几个帖子发现&lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>Hugo&lt;/a>还算是比较popular的。
+很多年前刚玩&lt;a class="link" href="https://pages.github.com/" target="_blank" rel="noopener"
+>Github Page&lt;/a>的时候有试过&lt;a class="link" href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll" target="_blank" rel="noopener"
+>Jekyll&lt;/a>但是感觉并不太好用。还有个原因是有两年多没写过码了，不敢用太复杂的，简单搭建一个static site随便写写东西就够了。&lt;/p>
+&lt;h3 id="准备工作">准备工作&lt;/h3>
+&lt;ul>
+&lt;li>基本的Git技能&lt;/li>
+&lt;li>读读&lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>Hugo&lt;/a>的基本介绍和quick start。以及选择一个你喜欢的&lt;a class="link" href="https://themes.gohugo.io/" target="_blank" rel="noopener"
+>theme&lt;/a>&lt;/li>
+&lt;li>了解下在&lt;a class="link" href="https://pages.github.com/" target="_blank" rel="noopener"
+>Github Page&lt;/a>的时候有试过&lt;a class="link" href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll" target="_blank" rel="noopener"
+>Jekyll&lt;/a>怎么host一个网站的。当然你有钱可以选择其他hosting方案&lt;/li>
+&lt;/ul>
+&lt;h3 id="菜鸟五分钟搭建流程">菜鸟五分钟搭建流程&lt;/h3>
+&lt;ol>
+&lt;li>利用选择的主题创建一个repo和hugo site。比如我选择的是这个&lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack/" target="_blank" rel="noopener"
+>Hugo Theme Stack&lt;/a>主题&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-v" data-lang="v">&lt;span class="line">&lt;span class="cl">&lt;span class="nv">hugo&lt;/span> &lt;span class="nv">new&lt;/span> &lt;span class="nv">site&lt;/span> &lt;span class="nv">myproject&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nv">j&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">cd&lt;/span> &lt;span class="nv">myproject&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nv">j&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">git&lt;/span> &lt;span class="nv">init&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">git&lt;/span> &lt;span class="nv">submodule&lt;/span> &lt;span class="nv">add&lt;/span> &lt;span class="nv">https&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="c1">//github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ol start="2">
+&lt;li>
+&lt;p>改一些设置: 主要是把exampleSite directory下面的一些config复制到site root directory下面。不懂为啥的话请读读&lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>Hugo&lt;/a>的基本介绍&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>在本地localhost上launch site&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">hugo
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo server -D
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>然后你就能在browser里面去到 &lt;code>http://localhost:1313/&lt;/code> 就看到了！恭喜！&lt;/p>
+&lt;ol start="4">
+&lt;li>利用Github Action设置自动deploy&lt;/li>
+&lt;/ol>
+&lt;p>我在Github上建了两个repo：一个是Github Page需要的（必须是public repo，我没钱升级Github pro)，还有一个是private repo用来source code。&lt;/p>
+&lt;p>需要设置的是&lt;/p>
+&lt;ol>
+&lt;li>设置一个github action的yml文件，可以用这个&lt;a class="link" href="https://gohugo.io/hosting-and-deployment/hosting-on-github/" target="_blank" rel="noopener"
+>template&lt;/a>。这样每次push之后会把hugo生成的./public那个directory自动push到github page那个repo&lt;/li>
+&lt;li>建一个有repo权限的&lt;a class="link" href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token" target="_blank" rel="noopener"
+>github personal token&lt;/a>然后放在source code repo的secrets里面&lt;/li>
+&lt;/ol>
+&lt;p>之后大致的流程是这样的&lt;/p>
+&lt;ol>
+&lt;li>本地写完新的post之后git push到source code的private repo&lt;/li>
+&lt;li>github action会把 &lt;code>./public&lt;/code> push到github page的repo&lt;/li>
+&lt;li>网站&lt;code>myproject-j.github.io&lt;/code>会自动更新新内容&lt;/li>
+&lt;/ol>
+&lt;h3 id="一些有用的东西">一些有用的东西&lt;/h3>
+&lt;ul>
+&lt;li>这个&lt;a class="link" href="https://tabler-icons.io/" target="_blank" rel="noopener"
+>Tabler Icon&lt;/a>网站找到你喜欢的icon&lt;/li>
+&lt;li>这个git &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack/tree/master/exampleSite/content/post" target="_blank" rel="noopener"
+>repo&lt;/a>可以看到一些sample post&lt;/li>
+&lt;li>这个&lt;a class="link" href="https://yinhe.co/archives/20210401_hugo_theme_stack.html" target="_blank" rel="noopener"
+>网站&lt;/a>有详细的customize教程&lt;/li>
+&lt;/ul>
+&lt;h3 id="还有啥问题">还有啥问题&lt;/h3>
+&lt;p>可以在下面给我留言！&lt;/p></description></item></channel></rss>
