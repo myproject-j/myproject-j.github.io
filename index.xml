@@ -79,8 +79,8 @@
 >repo&lt;/a>可以看到一些sample post&lt;/li>
 &lt;li>这个&lt;a class="link" href="https://yinhe.co/archives/20210401_hugo_theme_stack.html" target="_blank" rel="noopener"
 >网站&lt;/a>有详细的customize教程&lt;/li>
-&lt;li>这位大神写了[]很多Hugo很实用的帖子](&lt;a class="link" href="https://blog.echosec.top/tags/hugo/" target="_blank" rel="noopener"
->https://blog.echosec.top/tags/hugo/&lt;/a>)&lt;/li>
+&lt;li>这位大神写了&lt;a class="link" href="https://blog.echosec.top/tags/hugo/" target="_blank" rel="noopener"
+>很多Hugo很实用的帖子&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="还有啥问题">还有啥问题&lt;/h3>
 &lt;p>当然我肯定标题党了。十分钟应该成功不了（大佬当我没说）。毕竟会有出现各种各样的奇怪的问题。
