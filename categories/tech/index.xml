@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech 💻 on Project J - Blog</title><link>https://myproject-j.github.io/categories/tech/</link><description>Recent content in Tech 💻 on Project J - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myproject-j.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>本小站的Big Bang</title><link>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</link><pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</guid><description>&lt;h3 id="为啥选择hugo">为啥选择Hugo&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech 💻 on Project J - Blog</title><link>https://myproject-j.github.io/categories/tech/</link><description>Recent content in Tech 💻 on Project J - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myproject-j.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>本小站的Big Bang</title><link>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</link><pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</guid><description>&lt;img src="https://miro.medium.com/max/903/1*SwbEdd_9O-VkpkqeTS72VA.png" alt="Featured image of post 本小站的Big Bang" />&lt;h3 id="为啥选择hugo">为啥选择Hugo&lt;/h3>
 &lt;p>可能是懒得研究太多，随便看了看几个帖子发现&lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
 >Hugo&lt;/a>还算是比较popular的。
 很多年前刚玩&lt;a class="link" href="https://pages.github.com/" target="_blank" rel="noopener"
@@ -78,6 +78,8 @@
 >repo&lt;/a>可以看到一些sample post&lt;/li>
 &lt;li>这个&lt;a class="link" href="https://yinhe.co/archives/20210401_hugo_theme_stack.html" target="_blank" rel="noopener"
 >网站&lt;/a>有详细的customize教程&lt;/li>
+&lt;li>这位大神写了[]很多Hugo很实用的帖子](&lt;a class="link" href="https://blog.echosec.top/tags/hugo/" target="_blank" rel="noopener"
+>https://blog.echosec.top/tags/hugo/&lt;/a>)&lt;/li>
 &lt;/ul>
 &lt;h3 id="还有啥问题">还有啥问题&lt;/h3>
 &lt;p>当然我肯定标题党了。十分钟应该成功不了（大佬当我没说）。毕竟会有出现各种各样的奇怪的问题。
