@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project J - Blog</title><link>https://myproject-j.github.io/</link><description>Recent content on Project J - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myproject-j.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://myproject-j.github.io/about/</link><pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/about/</guid><description>&lt;p>Hello, 我是J。 一个想在这里随便打打字的人
-好吧。。其实因为豆瓣不好用了所以只能自己搭了个网站&lt;/p></description></item><item><title>本小站的Big Bang</title><link>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</link><pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</guid><description>&lt;img src="https://miro.medium.com/max/903/1*SwbEdd_9O-VkpkqeTS72VA.png" alt="Featured image of post 本小站的Big Bang" />&lt;h3 id="为啥选择hugo">为啥选择Hugo&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project J - Blog</title><link>https://myproject-j.github.io/</link><description>Recent content on Project J - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myproject-j.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://myproject-j.github.io/about/</link><pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/about/</guid><description>&lt;h3 id="-关于j">🤖 关于J&lt;/h3>
+&lt;p>发现生活无聊之后，想在这里打打字的J&lt;/p>
+&lt;ul>
+&lt;li>📚 书影音：豆瓣不好用了所以只能自己搭了个网站&lt;/li>
+&lt;li>🌏 旅游：出去看看&lt;/li>
+&lt;li>💻 职业：做过码农，转了管理，聊聊自己的职场思考&lt;/li>
+&lt;li>🎨 生活：记录一下lifestyle&lt;/li>
+&lt;li>🤔 思考：写下一些胡思乱想&lt;/li>
+&lt;/ul>
+&lt;h3 id="-本站的changelog">💻 本站的changelog&lt;/h3>
+&lt;ul>
+&lt;li>Oct 5, 2022: 本站上线，两年多后重拾码农skill，用Github Page和Hugo搭建&lt;/li>
+&lt;/ul>
+&lt;h3 id="-通知">📢 通知&lt;/h3>
+&lt;p>暂时没有&lt;/p></description></item><item><title>本小站的Big Bang</title><link>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</link><pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</guid><description>&lt;img src="https://miro.medium.com/max/903/1*SwbEdd_9O-VkpkqeTS72VA.png" alt="Featured image of post 本小站的Big Bang" />&lt;h3 id="为啥选择hugo">为啥选择Hugo&lt;/h3>
 &lt;p>可能是懒得研究太多，随便看了看几个帖子发现&lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
 >Hugo&lt;/a>还算是比较popular的。
 很多年前刚玩&lt;a class="link" href="https://pages.github.com/" target="_blank" rel="noopener"
@@ -84,4 +97,4 @@
 &lt;/ul>
 &lt;h3 id="还有啥问题">还有啥问题&lt;/h3>
 &lt;p>当然我肯定标题党了。十分钟应该成功不了（大佬当我没说）。毕竟会有出现各种各样的奇怪的问题。
-有问题欢迎在下面给我留言，然后点击网页右下角给我买个咖啡☕️呗&lt;/p></description></item><item><title>Archives</title><link>https://myproject-j.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/archives/</guid><description/></item><item><title>Search</title><link>https://myproject-j.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/search/</guid><description/></item></channel></rss>
+有问题欢迎在下面给我留言，然后点击网页右下角给我买个咖啡☕️呗&lt;/p></description></item><item><title>Archives</title><link>https://myproject-j.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/archives/</guid><description/></item><item><title>Link</title><link>https://myproject-j.github.io/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/link/</guid><description/></item><item><title>Search</title><link>https://myproject-j.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/search/</guid><description/></item></channel></rss>
