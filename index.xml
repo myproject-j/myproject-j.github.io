@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project J - Blog</title><link>https://myproject-j.github.io/</link><description>Recent content on Project J - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myproject-j.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>本小站的Big Bang</title><link>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</link><pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</guid><description>&lt;img src="https://miro.medium.com/max/903/1*SwbEdd_9O-VkpkqeTS72VA.png" alt="Featured image of post 本小站的Big Bang" />&lt;h3 id="为啥选择hugo">为啥选择Hugo&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project J - Blog</title><link>https://myproject-j.github.io/</link><description>Recent content on Project J - Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myproject-j.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>[2022-10-03] Weekly Digest</title><link>https://myproject-j.github.io/p/2022-10-03-weekly-digest/</link><pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/2022-10-03-weekly-digest/</guid><description>&lt;img src="https://thumbs.dreamstime.com/b/october-clip-art-whimsical-cartoon-text-doodle-month-44872805.jpg" alt="Featured image of post [2022-10-03] Weekly Digest" />&lt;h2 id="这一周">这一周&lt;/h2>
+&lt;p>过去的一周很（瞎）忙，没时间多看看书。毕竟这是本站&lt;a class="link" href="http://myproject-j.github.io/tags/weekly-digest/" target="_blank" rel="noopener"
+>weekly digest系列&lt;/a>的开门第一篇。。。有点对不住了，随便写写交作业吧。就当做是测试layout好了。重拾了一些markdown syntax，学习了下Hugo的&lt;a class="link" href="https://gohugo.io/content-management/shortcodes/" target="_blank" rel="noopener"
+>shortcodes&lt;/a>咋用。顺便还玩了一会依旧令人头疼的html。&lt;/p>
+&lt;h2 id="看了啥">看了啥&lt;/h2>
+&lt;h3 id="eat-the-rich-the-gamestop-saga-">Eat the Rich: The Gamestop Saga ⭐️⭐️⭐️&lt;/h3>
+&lt;p>没想到周五晚上一口气看完了。只记得当时很疯狂，这个纪录片很好的梳理了整个事件，也补上了很多我不知道的细节。当时并没有参与疯狂的party（又错过了财富自由的机会），只是听到身边每个人都在谈。片中看到了很多近些年重复的主题和讨论点：科技公司利用人们的心理精心设计出来的上瘾UI，扩音器的社交媒体，专业人员的幕后操纵，资本的力量，人心和市场，跟不上时代的国会议员，等等。反正就是股市有风险，投资需谨慎。DO YOUR OWN RESEARCH，发财的机会有的。真实的参与的各种人物都挺逗的，中间有几段笑出了声，这个&lt;a class="link" href="https://www.youtube.com/watch?v=Hp_bGdp_yhc" target="_blank" rel="noopener"
+>i like the stop&lt;/a>的rap也很逗。&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/P8jtdao1zkE"
+allowfullscreen
+title="YouTube Video">
+&lt;/iframe>
+&lt;/div>
+&lt;h3 id="sorry-we-missed-you-">Sorry, We Missed You ⭐️⭐️⭐️⭐️&lt;/h3>
+&lt;p>很久以前在豆瓣上mark过，这周不知道为啥突然窜上了豆瓣书影音榜单就拿来看了。导演&lt;a class="link" href="https://movie.douban.com/celebrity/1019106/" target="_blank" rel="noopener"
+>Ken Loach&lt;/a>好像一直做的是这种关注底层人民生活的电影。虽说和&lt;a class="link" href="https://movie.douban.com/subject/30458949/" target="_blank" rel="noopener"
+>Nomadland&lt;/a>的主人公一样都是受了2008年经济危机的影响，但是英国的片子还是现实的令人心疼，特别是戛然而止的结尾让我的压抑到了顶点。如今吃香喝辣生活舒服的码农们以后也会是这样的境地吗？除了社会现实，家庭也是本片一大主题。家里每个成员其实都很优秀都很努力，但还是不能摆脱这种困境。通过这个电影，还了解了一下什么是&lt;a class="link" href="https://www.investopedia.com/terms/g/gig-economy.asp#:~:text=Investopedia%20%2F%20Katie%20Kerpel-,What%20Is%20a%20Gig%20Economy%3F,little%20or%20no%20job%20security." target="_blank" rel="noopener"
+>Gig Economy&lt;/a>。&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/-NDt6TcCuf8"
+allowfullscreen
+title="YouTube Video">
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="读了啥">读了啥&lt;/h2>
+&lt;h3 id="我在伊朗长大httpsbookdoubancomsubject26987895-">&lt;a class="link" href="https://book.douban.com/subject/26987895/" target="_blank" rel="noopener"
+>我在伊朗长大&lt;/a> ⭐️⭐️⭐️⭐️&lt;/h3>
+&lt;p>&lt;img src="https://img01.yzcdn.cn/upload_files/2019/02/18/f6327af306723c0d02fe6371afedde7e.jpg!730x0.jpg"
+loading="lazy"
+alt="alt"
+>&lt;/p>
+&lt;p>好久没看过绘本了。伊朗🇮🇷也在travel list上，一直对神秘的文化很感兴趣。读完最大的感触是：有些东西真的和某国很像啊，很多东西和经历都能感同身受，比如留学经历，身份认同，东西文化差异，革命，社会阶级，等等。我们比较幸运的是几十年来还是相对和平的。&lt;/p>
+&lt;p>我可是太喜欢女主的外婆了，人格魅力简直了，人间清醒，太懂了这世界了，而且还非常独特：&lt;/p>
+&lt;blockquote>
+&lt;p>我看着外婆脱去衣服。每天早晨，外婆都摘下茉莉花放到胸罩里，使她身上有一股香味。当她脱衣服的时候，花瓣就从她的胸口纷纷落下&lt;/p>
+&lt;/blockquote>
+&lt;p>还有一些贯穿始终，指导女主的人生小哲理：&lt;/p>
+&lt;blockquote>
+&lt;p>人的一生会遇到很多怪人。如果这些怪人伤害了你，就对你自己上说：这是因为他们的愚蠢。这样你就不会对他们的残酷做出反抗了。因为没有比仇恨和复仇情绪更糟的东西了……永远保持你的尊严，真诚地对待你自己。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>我终于明白了外婆的意思。如果我自己不能感到内心的平静，我就永远平静不下来&lt;/p>
+&lt;/blockquote>
+&lt;p>虽然女主的经历和社会的历史都很残酷，但是诙谐的画风还是很可爱的，估计也是成熟以后的女主回想自己的故事的一种释然和乐观主义吧。&lt;/p>
+&lt;h3 id="旅行之道httpsbookdoubancomsubject34434959-">&lt;a class="link" href="https://book.douban.com/subject/34434959/" target="_blank" rel="noopener"
+>旅行之道&lt;/a> ⭐️⭐️&lt;/h3>
+&lt;p>&lt;img src="https://images-cn.ssl-images-amazon.cn/images/S/aplus-media/vc/a34e92d9-d1b1-4fcd-a795-d2a1d159f82c.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+loading="lazy"
+alt="alt"
+>&lt;/p>
+&lt;p>不得不说这本书的中文版的装订很精致，是我喜欢的浅绿色！以前在外面travel的时候有想过拿上这本书边看边走，结果并没有。看了以后万万没想到是一本作者自己各种作品的摘抄。。。这也是为啥给了两颗⭐️的原因。Where is the Tao ？？？&lt;/p>
+&lt;p>作者对火车真的是有种执念，不知道以后读完&lt;a class="link" href="https://book.douban.com/subject/30247391/" target="_blank" rel="noopener"
+>老巴塔哥尼亚火车&lt;/a>会不会对他谅解一些。本书覆盖了旅行的各种主题：独旅，体验，历史，民族，陌生，吃等等。每个章节都很短，either是摘录or短小的故事。有些句子也算是精辟，但是一堆在一起就很无聊了，只能挑几句以后拿来作为旅行po图的文案哈哈哈哈哈。比如，书的扉页上一句很装逼但是看完依然不懂和本书作者想表达的有啥关系的句子：&lt;/p>
+&lt;blockquote>
+&lt;p>在你成为道路之前，你不能走上那条路&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="还有啥">还有啥&lt;/h2>
+&lt;p>这周没啥了，就这样吧，也算是第一次po出来了☝🏻。书影音的review一般都坚持在weekly digest上提一下。需要更具体的review的话会另外单独po一个贴。&lt;/p></description></item><item><title>本小站的Big Bang</title><link>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</link><pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/%E6%9C%AC%E5%B0%8F%E7%AB%99%E7%9A%84big-bang/</guid><description>&lt;img src="https://miro.medium.com/max/903/1*SwbEdd_9O-VkpkqeTS72VA.png" alt="Featured image of post 本小站的Big Bang" />&lt;h3 id="为啥选择hugo">为啥选择Hugo&lt;/h3>
 &lt;p>可能是懒得研究太多，随便看了看几个帖子发现&lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
 >Hugo&lt;/a>还算是比较popular的。
 很多年前刚玩&lt;a class="link" href="https://pages.github.com/" target="_blank" rel="noopener"
@@ -83,7 +143,7 @@
 &lt;/ul>
 &lt;h3 id="还有啥问题">还有啥问题&lt;/h3>
 &lt;p>当然我肯定标题党了。十分钟应该成功不了（大佬当我没说）。毕竟会有出现各种各样的奇怪的问题。
-有问题欢迎在下面给我留言，然后点击网页右下角给我买个咖啡☕️呗&lt;/p></description></item><item><title>点这看看</title><link>https://myproject-j.github.io/%E7%82%B9%E8%BF%99%E7%9C%8B%E7%9C%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/%E7%82%B9%E8%BF%99%E7%9C%8B%E7%9C%8B/</guid><description/></item><item><title>关于J</title><link>https://myproject-j.github.io/%E5%85%B3%E4%BA%8Ej/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/%E5%85%B3%E4%BA%8Ej/</guid><description>&lt;h3 id="-关于j">🤖 关于J&lt;/h3>
+有问题欢迎在下面&lt;!-- raw HTML omitted -->给&lt;!-- raw HTML omitted -->我留言，然后点击网页右下角给我买个咖啡☕️呗&lt;/p></description></item><item><title>点这看看</title><link>https://myproject-j.github.io/%E7%82%B9%E8%BF%99%E7%9C%8B%E7%9C%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/%E7%82%B9%E8%BF%99%E7%9C%8B%E7%9C%8B/</guid><description/></item><item><title>关于J</title><link>https://myproject-j.github.io/%E5%85%B3%E4%BA%8Ej/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/%E5%85%B3%E4%BA%8Ej/</guid><description>&lt;h3 id="-关于j">🤖 关于J&lt;/h3>
 &lt;p>发现生活无聊之后，想在这里打打字的J&lt;/p>
 &lt;ul>
 &lt;li>📚 书影音：豆瓣不好用了所以只能自己搭了个网站&lt;/li>
