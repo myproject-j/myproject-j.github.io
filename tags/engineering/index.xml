@@ -62,7 +62,7 @@
 &lt;li>设置一个github action的yml文件，可以用这个&lt;a class="link" href="https://gohugo.io/hosting-and-deployment/hosting-on-github/" target="_blank" rel="noopener"
 >template&lt;/a>。这样每次push之后会把hugo生成的./public那个directory自动push到github page那个repo&lt;/li>
 &lt;li>建一个有repo权限的&lt;a class="link" href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token" target="_blank" rel="noopener"
->github personal token&lt;/a>然后放在source code repo的secrets里面&lt;/li>
+>github personal token&lt;/a>然后放在source code repo的secrets里面。token一般几个月就expire，需要重新generate然后放进secret里面。&lt;/li>
 &lt;/ol>
 &lt;p>之后大致的流程是这样的&lt;/p>
 &lt;ol>

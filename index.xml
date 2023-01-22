@@ -55,7 +55,7 @@ loading="lazy"
 &lt;blockquote>
 &lt;p>我们为什么要旅行呢？我们为什么要让自己遭受路途漫长、地处偏远和置身异域带来的所有这些不痛快？我的理论是，我们的记忆天生具有欺骗性，容易出错。这就是为什么我们永远会启程进行新的探险。我们一回家，那些不痛快就自动转化成了有趣的逸事，或者被忘得一干二净。记忆不是一条直线，它更像一个布满小点的图表，这些点都是精彩的点，而余下的部分是一片空白。记忆也是抽象的，从未来往回看，以往的不痛快看上去几乎都不太真实，像梦一样。&lt;/p>
 &lt;/blockquote>
-&lt;p>希望以后的探险有很多，精彩的记忆点，以及有趣的轶事。&lt;/p></description></item><item><title>[Nov 2022] Weekly Digest 1</title><link>https://myproject-j.github.io/p/nov-2022-weekly-digest-1/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/nov-2022-weekly-digest-1/</guid><description>&lt;img src="https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2017/04/%E5%9B%9B%E9%87%8D%E5%A5%8F-%E6%9E%97%E5%85%86%E5%BD%AC-%E6%97%A5%E5%8A%87-20170405164347_1454_large.jpg" alt="Featured image of post [Nov 2022] Weekly Digest 1" />&lt;h2 id="本周小结">本周小结&lt;/h2>
+&lt;p>希望以后的探险有很多，精彩的记忆点，以及有趣的轶事。&lt;/p></description></item><item><title>[Nov 2022] Weekly Digest 1</title><link>https://myproject-j.github.io/p/nov-2022-weekly-digest-1/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/nov-2022-weekly-digest-1/</guid><description>&lt;img src="https://upload.wikimedia.org/wikipedia/zh/1/12/Quartet2017.JPG" alt="Featured image of post [Nov 2022] Weekly Digest 1" />&lt;h2 id="本周小结">本周小结&lt;/h2>
 &lt;p>不知不觉竟然已经十一月了，西雅图没有秋天，瞬间到了冬天，冻死了，看来今年的雨雪很丰盛啊，希望是个不错的snowboard season。这一周最刺激的news还是各个tech公司的layoff了，twitter带头裁员50%，周日WSJ爆出了meta下周也要开始。这周终于拿到了新title和registration，周末去DOL把跟了我七年多的旧车牌换到了新车上，再也不担心被pull了。&lt;/p>
 &lt;p>工作上很多东西拖延，开始看大半年前买的&lt;a class="link" href="https://book.douban.com/subject/3674397/" target="_blank" rel="noopener"
 >Procrastination&lt;/a>，学到了理论，但是并没有什么实际的action item。周中也开始看阿城的&lt;a class="link" href="https://book.douban.com/subject/26734559/" target="_blank" rel="noopener"
@@ -410,7 +410,7 @@ alt="alt"
 &lt;li>设置一个github action的yml文件，可以用这个&lt;a class="link" href="https://gohugo.io/hosting-and-deployment/hosting-on-github/" target="_blank" rel="noopener"
 >template&lt;/a>。这样每次push之后会把hugo生成的./public那个directory自动push到github page那个repo&lt;/li>
 &lt;li>建一个有repo权限的&lt;a class="link" href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token" target="_blank" rel="noopener"
->github personal token&lt;/a>然后放在source code repo的secrets里面&lt;/li>
+>github personal token&lt;/a>然后放在source code repo的secrets里面。token一般几个月就expire，需要重新generate然后放进secret里面。&lt;/li>
 &lt;/ol>
 &lt;p>之后大致的流程是这样的&lt;/p>
 &lt;ol>
