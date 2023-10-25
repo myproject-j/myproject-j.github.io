@@ -5,11 +5,11 @@
 </span><span class=lnt>2
 </span><span class=lnt>3
 </span><span class=lnt>4
-</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-v data-lang=v><span class=line><span class=cl><span class=nv>hugo</span> <span class=nv>new</span> <span class=nv>site</span> <span class=nv>myproject</span><span class=o>-</span><span class=nv>j</span>
-</span></span><span class=line><span class=cl><span class=nv>cd</span> <span class=nv>myproject</span><span class=o>-</span><span class=nv>j</span>
-</span></span><span class=line><span class=cl><span class=nv>git</span> <span class=nv>init</span>
-</span></span><span class=line><span class=cl><span class=nv>git</span> <span class=nv>submodule</span> <span class=nv>add</span> <span class=nv>https</span><span class=p>:</span><span class=c1>//github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
-</span></span></span></code></pre></td></tr></table></div></div><ol start=2><li><p>改一些设置: 主要是把exampleSite directory下面的一些config复制到site root directory下面。不懂为啥的话请读读<a class=link href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a>的基本介绍</p></li><li><p>在本地localhost上launch site</p></li></ol><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>hugo new site myproject-j
+</span></span><span class=line><span class=cl>cd myproject-j
+</span></span><span class=line><span class=cl>git init
+</span></span><span class=line><span class=cl>git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
+</span></span></code></pre></td></tr></table></div></div><ol start=2><li><p>改一些设置: 主要是把exampleSite directory下面的一些config复制到site root directory下面。不懂为啥的话请读读<a class=link href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a>的基本介绍</p></li><li><p>在本地localhost上launch site</p></li></ol><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
 </span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>hugo
 </span></span><span class=line><span class=cl>hugo server -D
