@@ -1,4 +1,486 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project J - Blog</title><link>https://myproject-j.github.io/</link><description>Recent content on Project J - Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://myproject-j.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Monthly Digest - Oct 2023</title><link>https://myproject-j.github.io/p/monthly-digest-oct-2023/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/monthly-digest-oct-2023/</guid><description>&lt;img src="https://64.media.tumblr.com/c4d15d25d6e2969efe33eac9c8101952/4c52c86c102fa6fa-25/s2048x3072/1ea3f3aec3e6204b35e9328599e434f9882b9d8b.jpg" alt="Featured image of post Monthly Digest - Oct 2023" />&lt;h2 id="尝试了很多新运动">尝试了很多新运动&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project J - Blog</title><link>https://myproject-j.github.io/</link><description>Recent content on Project J - Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://myproject-j.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>各种Hugo shortcodes的例子</title><link>https://myproject-j.github.io/p/%E5%90%84%E7%A7%8Dhugo-shortcodes%E7%9A%84%E4%BE%8B%E5%AD%90/</link><pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/%E5%90%84%E7%A7%8Dhugo-shortcodes%E7%9A%84%E4%BE%8B%E5%AD%90/</guid><description>&lt;img src="https://miro.medium.com/v2/resize:fit:1024/1*xc9PTllkrDt-HuEWyOC-xA.png" alt="Featured image of post 各种Hugo shortcodes的例子" />&lt;h3 id="raw-html-in-markdown-file">Raw HTML in markdown file&lt;/h3>
+&lt;iframe src="https://www.google.com/maps/d/embed?mid=1ESd8DRH9rVxomiwDV4Xoa7cY8SP-AVM&amp;ehbc=2E312F&amp;noprof=1" width="800" height="400">&lt;/iframe>
+&lt;h3 id="expand-text-content">Expand text content&lt;/h3>
+&lt;details>
+&lt;summary>Expand here&lt;/summary>
+&lt;pre>&lt;code>Can you see this
+&lt;/code>&lt;/pre>
+&lt;/details>
+&lt;h3 id="music">Music&lt;/h3>
+&lt;iframe src="https://open.spotify.com/embed/track/2D3gvohUyOfXIVX6Mvhqae"
+width="100%"
+height="80px"
+frameborder="0"
+allowtransparency="true"
+allow="encrypted-media">&lt;/iframe>
+&lt;iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=86 src="//music.163.com/outchain/player?type=2&amp;id=557578993&amp;auto=0&amp;height=66">&lt;/iframe>
+&lt;h3 id="block-quotes">Block quotes&lt;/h3>
+&lt;blockquote>
+&lt;p>这里写引用内容&lt;/p>
+&lt;footer style="text-align:right">
+&lt;strong>作者&lt;/strong>
+&lt;cite>
+&lt;a href="link%20here" title="link here" rel="noopener noreferrer">作品名&lt;/a>
+&lt;/cite>
+&lt;/footer>
+&lt;/blockquote>
+&lt;h3 id="text-align">Text align&lt;/h3>
+&lt;p>&lt;p style="text-align:left">文字居左&lt;/p>
+&lt;p style="text-align:center">文字居中&lt;/p>
+&lt;p style="text-align:right">文字居右&lt;/p>
+&lt;/p>
+&lt;h3 id="neo-db">Neo DB&lt;/h3>
+&lt;div class="db-card">
+&lt;div class="db-card-subject">
+&lt;div class="db-card-post">&lt;img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="https://neodb.social/media/item/doubanbook/2023/03/26/0ac4642d-4552-4a23-884e-5abc9d3f2864.jpg">&lt;/div>
+&lt;div class="db-card-content">
+&lt;div class="db-card-title">&lt;a href="https://neodb.social/book/5SJvkuHNGL4XhBddW2J4EJ" class="cute" target="_blank" rel="noreferrer">我在北京送快递&lt;/a>&lt;/div>
+&lt;div class="rating">&lt;span class="allstardark">&lt;span class="allstarlight" style="width:80%">&lt;/span>&lt;/span>&lt;span class="rating_nums">8&lt;/span>&lt;/div>
+&lt;div class="db-card-abstract">进入社会工作至今的十年间，胡安焉走南闯北，辗转于广东、广西、云南、上海、北京等地，做过快递员、夜班拣货工人、便利店店员、保安、自行车店销售、服装店导购、加油站加油工……他将日常的点滴和工作的甘苦化作真诚的自述，记录了一个平凡人在生活中的辛劳、私心、温情、正气。
+在物流公司夜间拣货的一年，给他留下了深刻的生理印记：“这份工作还会令人脾气变坏，因为长期熬夜以及过度劳累，人的情绪控制力会明显下降……我已经感到脑子不好使了，主要是反应变得迟钝，记忆力开始衰退。”在北京送快递的两年，他“把自己看作一个时薪30元的送货机器，一旦达不到额定产出值就恼羞成怒、气急败坏”……
+但他最终认识到，怀着怨恨的人生是不值得过的。这些在事后追忆中写成的工作经历，渗透着他看待生活和世界的态度与反思，旨在表达个人在有限的选择和局促的现实中，对生活意义的直面和肯定：生活中许多平凡隽永的时刻，要比现实困扰的方方面面对人生更具有决定意义。&lt;/div>
+&lt;/div>
+&lt;div class="db-card-cate">book&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="rating">Rating&lt;/h3>
+&lt;span class="star-rating">&lt;i class="star">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">&lt;path d="M381.2 150.3L524.9 171.5C536.8 173.2 546.8 181.6 550.6 193.1C554.4 204.7 551.3 217.3 542.7 225.9L438.5 328.1L463.1 474.7C465.1 486.7 460.2 498.9 450.2 506C440.3 513.1 427.2 514 416.5 508.3L288.1 439.8L159.8 508.3C149 514 135.9 513.1 126 506C116.1 498.9 111.1 486.7 113.2 474.7L137.8 328.1L33.58 225.9C24.97 217.3 21.91 204.7 25.69 193.1C29.46 181.6 39.43 173.2 51.42 171.5L195 150.3L259.4 17.97C264.7 6.954 275.9-.0391 288.1-.0391C300.4-.0391 311.6 6.954 316.9 17.97L381.2 150.3z"/>&lt;/svg>&lt;/i>&lt;i class="star">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">&lt;path d="M381.2 150.3L524.9 171.5C536.8 173.2 546.8 181.6 550.6 193.1C554.4 204.7 551.3 217.3 542.7 225.9L438.5 328.1L463.1 474.7C465.1 486.7 460.2 498.9 450.2 506C440.3 513.1 427.2 514 416.5 508.3L288.1 439.8L159.8 508.3C149 514 135.9 513.1 126 506C116.1 498.9 111.1 486.7 113.2 474.7L137.8 328.1L33.58 225.9C24.97 217.3 21.91 204.7 25.69 193.1C29.46 181.6 39.43 173.2 51.42 171.5L195 150.3L259.4 17.97C264.7 6.954 275.9-.0391 288.1-.0391C300.4-.0391 311.6 6.954 316.9 17.97L381.2 150.3z"/>&lt;/svg>&lt;/i>&lt;i class="star">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">&lt;path d="M381.2 150.3L524.9 171.5C536.8 173.2 546.8 181.6 550.6 193.1C554.4 204.7 551.3 217.3 542.7 225.9L438.5 328.1L463.1 474.7C465.1 486.7 460.2 498.9 450.2 506C440.3 513.1 427.2 514 416.5 508.3L288.1 439.8L159.8 508.3C149 514 135.9 513.1 126 506C116.1 498.9 111.1 486.7 113.2 474.7L137.8 328.1L33.58 225.9C24.97 217.3 21.91 204.7 25.69 193.1C29.46 181.6 39.43 173.2 51.42 171.5L195 150.3L259.4 17.97C264.7 6.954 275.9-.0391 288.1-.0391C300.4-.0391 311.6 6.954 316.9 17.97L381.2 150.3z"/>&lt;/svg>&lt;/i>&lt;i class="star-outline">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">&lt;path d="M381.2 150.3L524.9 171.5C536.8 173.2 546.8 181.6 550.6 193.1C554.4 204.7 551.3 217.3 542.7 225.9L438.5 328.1L463.1 474.7C465.1 486.7 460.2 498.9 450.2 506C440.3 513.1 427.2 514 416.5 508.3L288.1 439.8L159.8 508.3C149 514 135.9 513.1 126 506C116.1 498.9 111.1 486.7 113.2 474.7L137.8 328.1L33.58 225.9C24.97 217.3 21.91 204.7 25.69 193.1C29.46 181.6 39.43 173.2 51.42 171.5L195 150.3L259.4 17.97C264.7 6.954 275.9-.0391 288.1-.0391C300.4-.0391 311.6 6.954 316.9 17.97L381.2 150.3z"/>&lt;/svg>&lt;/i>&lt;i class="star-outline">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">&lt;path d="M381.2 150.3L524.9 171.5C536.8 173.2 546.8 181.6 550.6 193.1C554.4 204.7 551.3 217.3 542.7 225.9L438.5 328.1L463.1 474.7C465.1 486.7 460.2 498.9 450.2 506C440.3 513.1 427.2 514 416.5 508.3L288.1 439.8L159.8 508.3C149 514 135.9 513.1 126 506C116.1 498.9 111.1 486.7 113.2 474.7L137.8 328.1L33.58 225.9C24.97 217.3 21.91 204.7 25.69 193.1C29.46 181.6 39.43 173.2 51.42 171.5L195 150.3L259.4 17.97C264.7 6.954 275.9-.0391 288.1-.0391C300.4-.0391 311.6 6.954 316.9 17.97L381.2 150.3z"/>&lt;/svg>&lt;/i>&lt;/span>
+&lt;h3 id="timeline">Timeline&lt;/h3>
+&lt;p>&lt;div class="timeline__row">
+&lt;div class="timeline__time">
+&lt;div class="timeline__time">2023-09-01&lt;/div>
+&lt;div class="timeline__split-line">&lt;/div>
+&lt;/div>
+&lt;div class="timeline__content">
+&lt;div class="timeline__tags">
+&lt;span class="timeline__tag">样式，文章&lt;/span>
+&lt;/div>
+&lt;div class="timeline__title">Sep 23&lt;/div>
+&lt;div class="timeline__description">
+description
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;style>
+.timeline {
+display: flex;
+flex-direction: column;
+}
+.timeline__row {
+display: flex;
+padding-left: 4%;
+height: 90px;
+}
+.timeline__time {
+flex: 0 0 110px;
+color: #5d5d5d;
+font-size: 17px;
+text-transform: uppercase;
+position: relative;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0.5rem 0;
+}
+.timeline__time-text {
+margin: 0;
+}
+.timeline__split-line {
+position: absolute;
+top: 0.5rem;
+right: -20px;
+height: 100%;
+width: 2px;
+background-color: #84c4e240;
+z-index: 0;
+}
+.timeline__split-line:before {
+content: "";
+position: absolute;
+top: 24%;
+right: -4px;
+transform: translateY(-50%);
+width: 10px;
+height: 10px;
+background-color: #c9e5f2;
+box-shadow: 0 0 0 4px var(--theme);
+border-radius: 50%;
+border: 0px solid #84c4e2;
+z-index: -1;
+}
+.timeline__content {
+flex: 1;
+margin-left: 4.5rem;
+padding: 0.5rem 0 1.2rem 0;
+}
+.timeline__title {
+margin: 0;
+margin-bottom: 2px;
+padding-top: 3px;
+margin-left: 0.5rem;
+color: var(--content);
+font-family: var(--font-family-teshu);
+font-size: 19px;
+font-weight: 600;
+width: fit-content;
+display: inline-block;
+vertical-align: middle;
+}
+.timeline__tags {
+display: inline-block;
+padding: 0;
+margin-left: 0.3rem;
+align-items: center;
+gap: 0.3rem;
+}
+.timeline__tag {
+display: inline-block;
+color: var(--secondary);
+background-color: #84c4e230;
+border: 1.5px solid #84c4e230;
+border-radius: 999px;
+padding: 0rem 0.5rem;
+font-size: 12px;
+white-space: nowrap;
+line-height: 1.4rem;
+opacity: 0.8;
+vertical-align: middle;
+}
+.timeline__description {
+font-size: 15px;
+line-height: 1.6;
+color: #5d5d5d;
+overflow: hidden;
+text-overflow: ellipsis;
+margin: 0.5rem 0 0.4rem 1.5rem;
+}
+.timeline__tag-style {
+background-color: #c581da;
+border-color: #c581da;
+color: #FFFFFF;
+}
+.timeline__tag-article {
+background-color: #92d392;
+border-color: #92d392;
+color: #000000;
+}
+.timeline__tag-page {
+background-color: #707070;
+border-color: #707070;
+color: #FFFFFF;
+}
+@media screen and (max-width: 768px) {
+.timeline__time {
+font-size: 14px;
+}
+.timeline__title {
+font-size: 16px;
+}
+.timeline__description {
+font-size: 14px;
+}
+}
+&lt;/style>
+&lt;div class="timeline__row">
+&lt;div class="timeline__time">
+&lt;div class="timeline__time">2023-10-01&lt;/div>
+&lt;div class="timeline__split-line">&lt;/div>
+&lt;/div>
+&lt;div class="timeline__content">
+&lt;div class="timeline__tags">
+&lt;span class="timeline__tag">样式，文章&lt;/span>
+&lt;/div>
+&lt;div class="timeline__title">Oct 23&lt;/div>
+&lt;div class="timeline__description">
+description
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;style>
+.timeline {
+display: flex;
+flex-direction: column;
+}
+.timeline__row {
+display: flex;
+padding-left: 4%;
+height: 90px;
+}
+.timeline__time {
+flex: 0 0 110px;
+color: #5d5d5d;
+font-size: 17px;
+text-transform: uppercase;
+position: relative;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0.5rem 0;
+}
+.timeline__time-text {
+margin: 0;
+}
+.timeline__split-line {
+position: absolute;
+top: 0.5rem;
+right: -20px;
+height: 100%;
+width: 2px;
+background-color: #84c4e240;
+z-index: 0;
+}
+.timeline__split-line:before {
+content: "";
+position: absolute;
+top: 24%;
+right: -4px;
+transform: translateY(-50%);
+width: 10px;
+height: 10px;
+background-color: #c9e5f2;
+box-shadow: 0 0 0 4px var(--theme);
+border-radius: 50%;
+border: 0px solid #84c4e2;
+z-index: -1;
+}
+.timeline__content {
+flex: 1;
+margin-left: 4.5rem;
+padding: 0.5rem 0 1.2rem 0;
+}
+.timeline__title {
+margin: 0;
+margin-bottom: 2px;
+padding-top: 3px;
+margin-left: 0.5rem;
+color: var(--content);
+font-family: var(--font-family-teshu);
+font-size: 19px;
+font-weight: 600;
+width: fit-content;
+display: inline-block;
+vertical-align: middle;
+}
+.timeline__tags {
+display: inline-block;
+padding: 0;
+margin-left: 0.3rem;
+align-items: center;
+gap: 0.3rem;
+}
+.timeline__tag {
+display: inline-block;
+color: var(--secondary);
+background-color: #84c4e230;
+border: 1.5px solid #84c4e230;
+border-radius: 999px;
+padding: 0rem 0.5rem;
+font-size: 12px;
+white-space: nowrap;
+line-height: 1.4rem;
+opacity: 0.8;
+vertical-align: middle;
+}
+.timeline__description {
+font-size: 15px;
+line-height: 1.6;
+color: #5d5d5d;
+overflow: hidden;
+text-overflow: ellipsis;
+margin: 0.5rem 0 0.4rem 1.5rem;
+}
+.timeline__tag-style {
+background-color: #c581da;
+border-color: #c581da;
+color: #FFFFFF;
+}
+.timeline__tag-article {
+background-color: #92d392;
+border-color: #92d392;
+color: #000000;
+}
+.timeline__tag-page {
+background-color: #707070;
+border-color: #707070;
+color: #FFFFFF;
+}
+@media screen and (max-width: 768px) {
+.timeline__time {
+font-size: 14px;
+}
+.timeline__title {
+font-size: 16px;
+}
+.timeline__description {
+font-size: 14px;
+}
+}
+&lt;/style>
+&lt;div class="timeline__row">
+&lt;div class="timeline__time">
+&lt;div class="timeline__time">2023-11-01&lt;/div>
+&lt;div class="timeline__split-line">&lt;/div>
+&lt;/div>
+&lt;div class="timeline__content">
+&lt;div class="timeline__tags">
+&lt;span class="timeline__tag">样式，文章&lt;/span>
+&lt;/div>
+&lt;div class="timeline__title">Nov 23&lt;/div>
+&lt;div class="timeline__description">
+description
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;style>
+.timeline {
+display: flex;
+flex-direction: column;
+}
+.timeline__row {
+display: flex;
+padding-left: 4%;
+height: 90px;
+}
+.timeline__time {
+flex: 0 0 110px;
+color: #5d5d5d;
+font-size: 17px;
+text-transform: uppercase;
+position: relative;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0.5rem 0;
+}
+.timeline__time-text {
+margin: 0;
+}
+.timeline__split-line {
+position: absolute;
+top: 0.5rem;
+right: -20px;
+height: 100%;
+width: 2px;
+background-color: #84c4e240;
+z-index: 0;
+}
+.timeline__split-line:before {
+content: "";
+position: absolute;
+top: 24%;
+right: -4px;
+transform: translateY(-50%);
+width: 10px;
+height: 10px;
+background-color: #c9e5f2;
+box-shadow: 0 0 0 4px var(--theme);
+border-radius: 50%;
+border: 0px solid #84c4e2;
+z-index: -1;
+}
+.timeline__content {
+flex: 1;
+margin-left: 4.5rem;
+padding: 0.5rem 0 1.2rem 0;
+}
+.timeline__title {
+margin: 0;
+margin-bottom: 2px;
+padding-top: 3px;
+margin-left: 0.5rem;
+color: var(--content);
+font-family: var(--font-family-teshu);
+font-size: 19px;
+font-weight: 600;
+width: fit-content;
+display: inline-block;
+vertical-align: middle;
+}
+.timeline__tags {
+display: inline-block;
+padding: 0;
+margin-left: 0.3rem;
+align-items: center;
+gap: 0.3rem;
+}
+.timeline__tag {
+display: inline-block;
+color: var(--secondary);
+background-color: #84c4e230;
+border: 1.5px solid #84c4e230;
+border-radius: 999px;
+padding: 0rem 0.5rem;
+font-size: 12px;
+white-space: nowrap;
+line-height: 1.4rem;
+opacity: 0.8;
+vertical-align: middle;
+}
+.timeline__description {
+font-size: 15px;
+line-height: 1.6;
+color: #5d5d5d;
+overflow: hidden;
+text-overflow: ellipsis;
+margin: 0.5rem 0 0.4rem 1.5rem;
+}
+.timeline__tag-style {
+background-color: #c581da;
+border-color: #c581da;
+color: #FFFFFF;
+}
+.timeline__tag-article {
+background-color: #92d392;
+border-color: #92d392;
+color: #000000;
+}
+.timeline__tag-page {
+background-color: #707070;
+border-color: #707070;
+color: #FFFFFF;
+}
+@media screen and (max-width: 768px) {
+.timeline__time {
+font-size: 14px;
+}
+.timeline__title {
+font-size: 16px;
+}
+.timeline__description {
+font-size: 14px;
+}
+}
+&lt;/style>
+&lt;/p>
+&lt;h3 id="image">Image&lt;/h3>
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
+&lt;div class="swiper-container">
+&lt;div class="swiper-wrapper">
+&lt;div class="swiper-slide">
+&lt;img src="https://64.media.tumblr.com/2cd9dbc0a4523d7a40e6bc985d6ad904/2dd6f56824b53e60-ac/s2048x3072/3503634f0a8eac726a033e400ff39def8a29e43e.jpg" alt="">
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img src="https://64.media.tumblr.com/ccf0c325ca153ca4542b73f847c5d679/2dd6f56824b53e60-f8/s2048x3072/59a15e569a06ffe6bc2eaeedde1d798715bc1391.jpg" alt="">
+&lt;/div>
+&lt;div class="swiper-slide">
+&lt;img src="https://64.media.tumblr.com/b59fb825c6737597bedc73f4b600554d/2dd6f56824b53e60-3e/s2048x3072/186295be3ff2d5e4a389a81a1ccd535465de4f69.jpg" alt="">
+&lt;/div>
+&lt;/div>
+&lt;div class="swiper-pagination">&lt;/div>
+&lt;/div>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js">&lt;/script>
+&lt;script>
+var swiper = new Swiper('.swiper-container', {
+pagination: '.swiper-pagination',
+paginationClickable: true,
+autoHeight: true,
+keyboardControl : true,
+mousewheelControl : true,
+lazyLoading : true,
+lazyLoadingInPrevNext : true,
+loop : true,
+});
+&lt;/script></description></item><item><title>Monthly Digest - Oct 2023</title><link>https://myproject-j.github.io/p/monthly-digest-oct-2023/</link><pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate><guid>https://myproject-j.github.io/p/monthly-digest-oct-2023/</guid><description>&lt;img src="https://64.media.tumblr.com/c4d15d25d6e2969efe33eac9c8101952/4c52c86c102fa6fa-25/s2048x3072/1ea3f3aec3e6204b35e9328599e434f9882b9d8b.jpg" alt="Featured image of post Monthly Digest - Oct 2023" />&lt;h2 id="尝试了很多新运动">尝试了很多新运动&lt;/h2>
 &lt;p>游泳🏊：在西雅图downtown的ymca上的adult beginner group lesson，总算是能下水扑腾几下。虽然miss掉了九月的前两节课，十月底总算是告一段落。从完全不会的小白，变成了能在浅水区游一游的水平。报名了十一月的intermediate，继续努力。&lt;/p>
 &lt;p>拳击🥊：尝试了几家boxing gym，都不一样的特点。Seattle Boxing Gym 是比较专业教真正技巧的那种。Rowdy boxing是纯夜店风，随便打着玩高兴就行了。还有就是TITLE boxing算是介于这两个中间。十月大概能保持至少每周去打一次的频率。能解压能耗能，挺不错。&lt;/p>
 &lt;p>瑜伽🧘：最开始是去Mind Body Hum尝试了下Restoration那种，加上Soundbath挺不错。后来又去尝试了Core Power Yoga的Friday First Timer，结果发现并不是beginner的课。心灵遭受打击，十一月再试试吧。&lt;/p>
