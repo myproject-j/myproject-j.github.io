@@ -755,6 +755,8 @@ alt="alt"
 &lt;li>🎨 生活：记录一下lifestyle&lt;/li>
 &lt;li>🤔 思考：写下一些胡思乱想&lt;/li>
 &lt;/ul>
+&lt;h3 id="-世界的水手">🌍 世界的水手&lt;/h3>
+&lt;iframe src="https://www.google.com/maps/d/embed?mid=1ESd8DRH9rVxomiwDV4Xoa7cY8SP-AVM&amp;ehbc=2E312F&amp;noprof=1" width="800" height="400">&lt;/iframe>
 &lt;h3 id="-本站的changelog">💻 本站的changelog&lt;/h3>
 &lt;ul>
 &lt;li>Oct 5, 2022: 本站上线，两年多后重拾码农skill，用Github Page和Hugo搭建&lt;/li>
